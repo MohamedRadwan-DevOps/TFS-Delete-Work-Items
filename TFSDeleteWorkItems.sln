@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSDeleteWorkItems", "TFSDeleteWorkItems\TFSDeleteWorkItems.csproj", "{3D97A434-E530-43A1-92B1-9B832E958179}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Delete TFS Work Items", "Delete TFS Work Items\Delete TFS Work Items.vdproj", "{5DAA73DE-020D-42DC-9137-1BD021C083C3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs35
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TFSDeleteWorkItems\\TFSDeleteWorkItems.csproj
+		SccProjectName1 = TFSDeleteWorkItems
+		SccLocalPath1 = TFSDeleteWorkItems
+		SccProjectUniqueName2 = Delete\u0020TFS\u0020Work\u0020Items\\Delete\u0020TFS\u0020Work\u0020Items.vdproj
+		SccProjectName2 = Delete\u0020TFS\u0020Work\u0020Items
+		SccLocalPath2 = Delete\u0020TFS\u0020Work\u0020Items
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D97A434-E530-43A1-92B1-9B832E958179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D97A434-E530-43A1-92B1-9B832E958179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D97A434-E530-43A1-92B1-9B832E958179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D97A434-E530-43A1-92B1-9B832E958179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAA73DE-020D-42DC-9137-1BD021C083C3}.Debug|Any CPU.ActiveCfg = Debug
+		{5DAA73DE-020D-42DC-9137-1BD021C083C3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
